@@ -26,10 +26,8 @@ The YOLO model weights (`models/best.pt`) are **NOT included in this repository*
 
 1. Download the `best.pt` model weights from the following link (choose one):
 
-   - Google Drive: [YOUR_LINK_HERE](https://drive.google.com/your-link-here)
-   - Dropbox: [YOUR_LINK_HERE](https://dropbox.com/your-link-here)
-   - HuggingFace Hub: [YOUR_LINK_HERE](https://huggingface.co/your-username/your-repo/resolve/main/best.pt)
-
+   - Google Drive: [YOUR_LINK_HERE](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
+   
 2. Place the downloaded `best.pt` file in the `models/` directory:
 
    ```
@@ -58,8 +56,6 @@ mkdir models
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [OpenCV](https://opencv.org/)
-- Your collaborators
 
----
 
 **If you have questions or issues, please open an Issue or Discussion!**

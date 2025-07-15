@@ -26,7 +26,7 @@ The YOLO model weights (`models/best.pt`) are **NOT included in this repository*
 
 1. Download the `best.pt` model weights from the following link (choose one):
 
-   - Google Drive: [YOUR_LINK_HERE](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
+   - Google Drive: [Model link](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
    
 2. Place the downloaded `best.pt` file in the `models/` directory:
 

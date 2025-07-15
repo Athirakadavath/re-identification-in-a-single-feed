@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+output.mp4
+env/
+.venv/
+data/
+models/
